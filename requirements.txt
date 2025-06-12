@@ -1,0 +1,39 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+statsmodels
+-e .
+Plotly
+# Optional: Uncomment the following line if you need to install Jupyter Notebook
+# jupyter
+# Optional: Uncomment the following line if you need to install TensorFlow
+# tensorflow
+# Optional: Uncomment the following line if you need to install PyTorch
+# torch torchvision torchaudio
+# Optional: Uncomment the following line if you need to install XGBoost
+# xgboost
+# Optional: Uncomment the following line if you need to install LightGBM
+# lightgbm
+# Optional: Uncomment the following line if you need to install CatBoost
+# catboost
+# Optional: Uncomment the following line if you need to install OpenCV
+# opencv-python
+# Optional: Uncomment the following line if you need to install NLTK
+# nltk
+# Optional: Uncomment the following line if you need to install SpaCy
+# spacy
+# Optional: Uncomment the following line if you need to install Transformers
+# transformers
+# Optional: Uncomment the following line if you need to install BeautifulSoup
+# beautifulsoup4
+# Optional: Uncomment the following line if you need to install Requests
+# requests
+# Optional: Uncomment the following line if you need to install Flask
+# flask
+# Optional: Uncomment the following line if you need to install Pytest
+# pytest
+# Optional: Uncomment the following line if you need to install PyYAML
+# pyyaml                                                                
