@@ -7,9 +7,10 @@ seaborn
 statsmodels
 -e .
 Plotly
-
-xgboost
-
+dill
+xgboost #if xgboost fails try to install libomp
+# XGBoost uses OpenMP (Open Multi-Processing) to speed up training by parallelizing computations across CPU cores.
+# libomp.dylib is the macOS dynamic library that provides OpenMP support.
 catboost
 
 flask
