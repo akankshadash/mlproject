@@ -2,7 +2,7 @@ import sys
 import logging
 import os
 from datetime import datetime
-from exceptions import CustomException
+from source.exceptions import CustomException
 
 Log_file = f"{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.log"
 log_path = os.path.join(os.getcwd(), "logs", Log_file)
